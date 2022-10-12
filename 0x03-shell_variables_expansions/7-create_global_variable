@@ -1,1 +1,2 @@
-#!/bin/bash echo "export School="BEST" " 
+#!/bin/bash 
+echo "export School="BEST" " 
